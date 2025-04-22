@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "betterchanneling",
+  "version": "${version}",
+  "name": "Better Channeling",
+  "description": "This is a basic mod which changes the behaviour the channeling enchantment to add multiple levels with different behaviours.",
+  "authors": ["MaxTKB"],
+  "contact": {
+    "repo": "https://github.com/MaxTKB/BetterChanneling"
+  },
+  "license": "MIT",
+  "icon": "assets/betterchanneling/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "mtkb.mods.betterchanneling.client.BetterChannelingClient"
+    ],
+    "main": [
+      "mtkb.mods.betterchanneling.BetterChanneling"
+    ]
+  },
+  "mixins": [
+    "betterchanneling.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "java": ">=17",
+    "minecraft": "${minecraft_version}"
+  }
+}

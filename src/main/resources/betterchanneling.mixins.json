@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "mtkb.mods.betterchanneling.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ChannelingEnchantmentMixin",
+    "TridentEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
