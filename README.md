@@ -1,6 +1,6 @@
 # Better Channeling
 
-**Better Channeling** is a lightweight Fabric mod that enhances the Channeling enchantment by introducing multiple levels with distinct behaviors, while staying as close to vanilla gameplay as possible.
+**Better Channeling** is a lightweight Fabric mod that enhances the Channeling enchantment by introducing multiple levels with distinct behaviours, while staying as close to vanilla gameplay as possible.
 
 ## ✨ Channeling Enchantment Levels:
 
@@ -39,11 +39,11 @@
 - When **installed on a Fabric server**, it should function correctly, **even if players do not have the mod installed client-side**.
 - However, it is **recommended** that both **client and server have the mod installed** to ensure proper enchantment visibility (e.g., seeing Channeling II and III in creative menus or enchanting tables).
 - Does **not** require the Fabric API.
-- Should be compatible with **any mod that does not directly modify Trident or Channeling behavior**.
+- Should be compatible with **any mod that does not directly modify Trident or Channeling behaviour**.
 - If you discover an incompatibility with another mod, please [open an issue](https://github.com/MaxTKB/BetterChanneling/issues) so it can be investigated and resolved if possible.
 ## 📚 About the Mod
 
-This mod uses Mixins to adjust the behavior of:
+This mod uses Mixins to adjust the behaviour of:
 - The `TridentEntity` class
 - The `ChannelingEnchantment` class
 
