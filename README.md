@@ -4,9 +4,14 @@
 
 ## ✨ Channeling Enchantment Levels:
 
-1. **Level 1** – Behaves exactly like vanilla: tridents summon lightning **only during thunderstorms**.
-2. **Level 2** – Allows lightning strikes **during any rain**, not just thunderstorms.
-3. **Level 3** – Enables lightning strikes **at any time**, regardless of weather.
+1. **Channeling I** 
+    - Behaves exactly like vanilla: tridents summon lightning **only during thunderstorms**.
+2. **Channeling II**
+    - Allows lightning strikes **during any rain**, not just thunderstorms.
+    - **Rare**: Appears in about **5-6% of all Channeling enchantments** at level 30.
+3. **Channeling III**
+    - Enables lightning strikes **at any time**, regardless of weather.
+    - **Not obtainable via enchanting table**. Can only be acquired by **combining Channeling II** tridents or books using an **anvil**.
 
 ## 🛠️ How to Install
 1. **Download the mod**

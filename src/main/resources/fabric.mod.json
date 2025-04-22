@@ -3,7 +3,7 @@
   "id": "betterchanneling",
   "version": "${version}",
   "name": "Better Channeling",
-  "description": "This is a basic mod which changes the behaviour the channeling enchantment to add multiple levels with different behaviours.",
+  "description": "Adds multiple levels to the Channeling enchantment with progressively stronger effects, while staying true to vanilla behaviour.",
   "authors": ["MaxTKB"],
   "contact": {
     "repo": "https://github.com/MaxTKB/BetterChanneling"
