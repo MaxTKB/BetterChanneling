@@ -41,13 +41,23 @@
 - Does **not** require the Fabric API.
 - Should be compatible with **any mod that does not directly modify Trident or Channeling behaviour**.
 - If you discover an incompatibility with another mod, please [open an issue](https://github.com/MaxTKB/BetterChanneling/issues) so it can be investigated and resolved if possible.
+
+## 🔄 Uninstalling the Mod
+
+- This mod **should be safe to remove from existing worlds**, uninstalling Better Channeling will **not corrupt** your world or cause issues.
+- Any tridents enchanted with Channeling I, II or III will **retain their enchantments**, but will behave like standard **vanilla Channeling** tridents after the mod is removed.
+- This makes the mod **safe to add or remove** from modpacks and multiplayer servers without permanent impact.
+- If you experience any issues after uninstalling, feel free to [open an issue](https://github.com/MaxTKB/BetterChanneling/issues) so it can be looked into and resolved.
+
 ## 📚 About the Mod
 
 This mod uses Mixins to adjust the behaviour of:
 - The `TridentEntity` class
 - The `ChannelingEnchantment` class
 
-Its goal is to offer a more customizable and immersive enchantment experience without deviating from the core mechanics of the game.
+Its goal is to offer a more interesting experience for the Channeling Enchantment without deviating much from the core mechanics of the game.
 
 ## 🙌 Special Thanks
 Shoutout to the chatter in [Feinberg's](https://www.twitch.tv/feinberg) Twitch chat who originally suggested the idea for this mod, your spark of inspiration made this possible!
+
+Additional thanks to [Nischhelm](https://www.curseforge.com/members/nischhelm/projects) for advice and suggestions about enchantment power.
