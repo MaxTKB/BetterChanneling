@@ -5,9 +5,8 @@
   "compatibilityLevel": "JAVA_17",
   "mixins": [
     "ChannelingEnchantmentMixin",
-    "TridentEntityMixin"
-  ],
-  "client": [
+    "TridentEntityMixin",
+    "EnchantmentMixin"
   ],
   "injectors": {
     "defaultRequire": 1
