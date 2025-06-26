@@ -29,8 +29,4 @@ public abstract class ChannelingEnchantmentMixin {
         };
         cir.setReturnValue(maxPower);
     }
-
-    public int getMaxLevel() {
-        return 3;
-    }
 }
